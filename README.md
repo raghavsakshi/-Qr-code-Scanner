@@ -1,6 +1,7 @@
 # -Qr-code-Scanner
 Project Title : Web-Based QR Code Scanner
-          Technology Stack:
+
+**     Technology Stack:**
    * HTML: For structuring the web page and its elements.
    * CSS: For styling the web page to provide a clean and intuitive user interface.
    * JavaScript: For implementing the QR code scanning logic, camera access, and data processing.
